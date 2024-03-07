@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 module github.com/Talandar99/raylib_go_snake
 
 go 1.22.0
@@ -8,8 +7,3 @@ require (
 	github.com/gen2brain/raylib-go/raylib v0.0.0-20240227114648-c3665eb9abf8 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 )
-=======
-module github.com/Talandar99/ebitengine_snake
-
-go 1.22.0
->>>>>>> add1977 (init)
