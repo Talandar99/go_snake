@@ -1,4 +1,4 @@
-module github.com/Talandar99/go_snake_raylib
+module github.com/Talandar99/raylib_go_snake
 
 go 1.22.0
 
