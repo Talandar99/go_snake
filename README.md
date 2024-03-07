@@ -1,3 +1,4 @@
 # go_snake_raylib
 
-Simple, fun project created while learning GO 
+Simple game that uses raylib. 
+Created while learning golang
