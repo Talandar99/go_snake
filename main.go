@@ -1,6 +1,5 @@
 package main
 
-<<<<<<< HEAD
 import rl "github.com/gen2brain/raylib-go/raylib"
 
 func updateKeys(direction *int) {
@@ -126,8 +125,4 @@ func main() {
 		update(&frame, &direction, &snake, &snack)
 		draw(snake, snack)
 	}
-=======
-func main() {
-	println("Hello from Go")
->>>>>>> add1977 (init)
 }
